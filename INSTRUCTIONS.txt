@@ -1,0 +1,28 @@
+Double-click the executable file (SolitaireFINAL.exe) to start the game. The game should launch and be ready to play immediately.
+
+Gameplay Overview
+
+Solitaire is played with a standard 52-card deck.
+
+The aim is to move all cards to the Foundation piles in ascending order by suit, starting with Aces and ending with Kings.
+
+Click and drag cards to move them between the stock, tableau, and foundation.
+Double-click a card to automatically move it to its correct position in the tableau or foundation.
+
+Regular Games Rules:
+Each game starts with 0 points.
+Each card moved to the foundation piles is worth +10 points.
+Each card moved from the talon to the tableau piles is worth +10 points.
+Each card moved from the foundation piles to the tableau piles is worth -10 points.
+Each flipped hidden tableau card is worth +5 points.
+For every 10 seconds of gameplay, 2 points are deducted from the score.
+
+Vegas Game Rules:
+
+Each game starts with a debt of -52 points.
+Each card moved to the Foundation piles is worth +5 points. 
+When the Draw 3 option is enabled, you are allowed three passes through the Stock pile. If disabled, only one pass is allowed.
+When the cumulative option is on, the scores are maintained between games.
+When the cumulative option is off, the scores reset at the start of each new game.
+
+If you have any questions or need further assistance, please feel free to reach out via this email:luis0006@algonquinlive.com
